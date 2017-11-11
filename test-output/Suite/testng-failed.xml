@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="true">
+  <test name="Test2(failed)" parallel="true">
+    <classes>
+      <class name="sat_4_11.Assert_Validation">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- sat_4_11.Assert_Validation -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

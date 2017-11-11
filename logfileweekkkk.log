@@ -1,0 +1,9 @@
+2017-11-11 15:36:49 INFO  Log4j_TestExe:22 - launch pass
+2017-11-11 15:36:54 INFO  Log4j_TestExe:25 - URL entered
+2017-11-11 15:36:54 INFO  Log4j_TestExe:28 - Br MAximized
+2017-11-11 15:38:25 INFO  Log4j_TestExe:22 - launch pass
+2017-11-11 15:38:29 INFO  Log4j_TestExe:25 - URL entered
+2017-11-11 15:38:29 INFO  Log4j_TestExe:28 - Br MAximized
+2017-11-11 15:38:29 INFO  Log4j_TestExe:32 - Username entered
+2017-11-11 15:38:29 INFO  Log4j_TestExe:36 - Passwd entered
+2017-11-11 15:38:33 INFO  Log4j_TestExe:40 - Login Clicked
